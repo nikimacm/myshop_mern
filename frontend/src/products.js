@@ -29,7 +29,7 @@ const products = [
         category: 'Pillows and Blankets',
         price: '18.99',
         countInStock: '5',
-        rating: '5',
+        rating: '4.5',
         numReviews: '8',
     },
 
@@ -46,8 +46,8 @@ const products = [
         category: 'Drinkware and Coasters',
         price: '4.50',
         countInStock: '15',
-        rating: '5',
-        numReviews: '10',
+        rating: '3.5',
+        numReviews: '6',
     },
 
     {
