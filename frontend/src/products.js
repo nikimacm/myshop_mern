@@ -98,5 +98,7 @@ const products = [
         countInStock: '15',
         rating: '5',
         numReviews: '6',
-    }
+    },
 ]
+
+export default products
