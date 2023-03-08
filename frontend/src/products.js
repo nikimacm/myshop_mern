@@ -62,7 +62,7 @@ const products = [
                     'reusable bottle!',
         brand: 'ninjahouse.creations',
         category: 'Drinkware and Coasters',
-        price: '15',
+        price: '15.00',
         countInStock: '15',
         rating: '5',
         numReviews: '8',
